@@ -6,8 +6,68 @@ Perito criminal cibernético (detetive/cibersegurança)
 
 Hiperfoco em carros
 
-Storytelling: 
+Storytelling:
 
-Pai/Mãe
+5 anos de idade, anuversario pesadelo
 
-IT(N) SO6 LII LVFE
+vai acordar
+
+--1--:
+
+[Ir ao trabalho/Explorar a casa]
+
+Ir ao trabalho:
+
+"Acho que voce deve ver a casa primeiro"
+
+"Voce deve organizar a sua casa"
+
+"ISSO É DESCONFORTAVEL. VÁ VER A CASA LOGO"
+
+explorar casa:
+
+CAFÉ DA MANHA/Escove os dentes primeiro
+
+CAFÈ da manha
+
+Nojento, mas ta bom
+
+escover os dentes
+
+escovando os dentes...
+
+café da manha
+
+Voce come a mesma comida de sempre: ovos e bacon
+
+[Voce quer continua explorando a casa?]:
+
+SIM/NAO
+
+SIM
+
+--abrir armário
+
+Voce percebe que usa quase as mesmas roupas
+
+--Arrumar a cama
+
+Você já arrumou a cama, só não percebeu
+
+--Abrir a gaveta
+
+voce encontra algumas fotografias na gaveta
+
+--Ver fotografia/ignorar
+
+Ver fotografias
+
+-Uma foto sua se formando
+
+-
+
+-Uma foto do seu aniversário
+
+...
+
+Ignorar
