@@ -58,16 +58,20 @@ Você já arrumou a cama, só não percebeu
 
 voce encontra algumas fotografias na gaveta
 
---Ver fotografia/ignorar
+---Ver fotografia/ignorar
 
-Ver fotografias
+--Ver fotografias
 
 -Uma foto sua se formando
 
--
+Eu fui premiado como o melhor aluno nesse dia.
+
+-Uma foto sua da escola
+
+Eu tinha poucos, mas bons amigos.
 
 -Uma foto do seu aniversário
 
 ...
 
-Ignorar
+--Ignorar
