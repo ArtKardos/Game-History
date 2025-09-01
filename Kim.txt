@@ -75,3 +75,11 @@ Eu tinha poucos, mas bons amigos.
 ...
 
 --Ignorar
+
+[Quer continuar explorando?]
+
+SIM/NÃO
+
+NÃO
+
+
