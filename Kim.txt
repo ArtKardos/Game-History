@@ -82,8 +82,45 @@ SIM/NÃO
 
 NÃO
 
-[nodm oar atravbalkabhpio]
+[indo ao trablho]
 
-Katherine: "olá tm,ejso eum servivcoa par abvpeoce"
+Katherine: "olá temos um servivço para você"
 
 Kim: Qual servico?
+
+Katherine:
+
+Computador com disco clonado:
+
+Anonymous/$:
+
+1) ls
+
+- /Users
+- /System
+- /Logs
+- /Temp
+
+        1) cd Logs
+        2) open /Logs
+        3) access Logs
+        4) cd /Users
+
+        cd Logs
+
+                - syslog.txt
+                - access.log
+                - firewall.log
+
+                access.log
+
+                        Você encontrou múltiplos acessos remotos incomuns à 01:43h da manhã, usando
+                        usuário "admin", via protocolo SSH.
+
+                        Possível evidência de acesso indevido.
+
+
+2) cd /
+3) access_logs
+4) help
+
