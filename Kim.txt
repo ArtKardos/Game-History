@@ -6,9 +6,9 @@ Perito criminal cibernético (detetive/cibersegurança)
 
 Hiperfoco em carros
 
-Storytelcfgyling:
+Storytelling:
 
-5 anos de idade, ânusversario pesadelo
+5 anos de idade, aniversario pesadelo
 
 vai acordar
 
@@ -82,13 +82,9 @@ SIM/NÃO
 
 NÃO
 
-[indo ao trablho]
+[indo ao trabalho]
 
-Katherine: "olá temos um servivço para você"
-
-Kim: Qual servico?
-
-Katherine:
+Katherine: "olá, Kim. Precisamos de você para sabermos se as informações do nosso cliente foram clonadas"
 
 Computador com disco clonado:
 
@@ -123,4 +119,17 @@ Anonymous/$:
 2) cd /
 3) access_logs
 4) help
+
+Kim: "É bem provável que as informações tenham sido clonadas. Houve diversos acessos simultâneos durante a madrugada"
+
+Katherine: "Agradeço pela a ajuda, agora podemos continuar com uma investigação mais detalhada sobre o caso"
+
+
+Katherine sorrindo
+
+
+Kim: "hmm"
+
+[Depois de um dia de trabalho]
+
 
