@@ -86,6 +86,17 @@ NÃO
 
 [indo ao trabalho]
 
+
+
+
+PARTE 1
+
+
+
+
+DESAFIO 1 - PARTE 1
+
+
 Katherine: "olá, Kim. Precisamos de você para sabermos se as informações do nosso cliente foram clonadas"
 
 Computador com disco clonado:
@@ -132,12 +143,8 @@ Katherine sorrindo
 
 Kim: "hmm"
 
-[Depois de um dia de trabalho]
 
-
-
-
-
+DESAFIO 2 - PARTE 1
 
 
 Katherine: ola kim, nós temos aqui está seu outor sefico
@@ -153,3 +160,100 @@ Ehfnb dtx qhu wkh 5wk dyh dqg hdvw 87wk vwuhhw. Wrqljkw. Eurxjk wkh svrww hqhpd"
 Beco atrás da 5ª Avenida com a East 87th Street. Hoje à noite. Traga o inimigo marionete."---
 
 
+
+
+
+
+PARTE 2
+
+
+
+
+
+DESAFIO 1 - PARTE 2
+
+
+Katherine: Kim, temos mais servicos de clonagem paraa voce, porem dessa vez é o caso de 3 HDs diferentes que foram clonados
+
+Kim: Isso é diferente...
+
+escolha:
+
+1) HD 1
+
+[Etapa 2 — Ver lista de diretórios]:
+
+Diretórios encontrados em HD-01:
+
+/documentos_pessoais/
+
+
+        Kim: "Não há nada suspeito aqui"
+
+/trabalho/
+
+
+
+/downloads/
+
+        Kim: "Não há nada suspeito aqui"
+
+/ocultos/.logs/
+
+        Kim: "Não há nada suspeito aqui"
+
+
+------
+Resposta correta: 2. /trabalho/
+------
+
+
+Arquivos encontrados em /trabalho/:
+
+A) notas_fiscais.xlsx
+
+Kim: "Notas fiscais realmente parece mais intuitivo para identificar evidencias de lavagem de dinheiro, porém não há nenhuma tentativa de escondeer alguma informação aqui e nao há nada de suspeito. Talvez um arquivo menos identificavel seja mais provável de ter alguma atividade suspeita.
+
+B) frag_rot13.msg
+
+
+
+C) dados_brutos.csv
+
+Kim: "Por que dados brutos teria alguma atividade suspeita? São só informações que não passaram por nenhuma modificação ou analise"
+
+------
+Resposta correta: B
+------
+
+Etapa 4 — Abrir o arquivo e analisar conteúdo:
+
+Conteúdo de frag_rot13.msg:
+
+Guvf vf gur svefg fragrapr.  
+Unccl Qnivq jbhyq qrfgeblr rirelguvat.
+
+
+Qual tipo de codificação isso parece usar?
+
+A) Texto binário (ASCII)
+B) Base64
+C) ROT13
+D) Inversão de string
+
+-----
+Resposta correta: C
+-----
+
+Etapa 5 — Decodificar (jogador roda função ROT13 no próprio sistema):
+
+Resultado da decodificação:
+
+Esse é o primeiro fragmento.  
+Happy Birthday vai destruir tudo.
+
+
+Mensagem decodificada com sucesso. Arquivo salvo para análise posterior.
+
+2) HD 2
+3) HD 3
